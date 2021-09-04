@@ -1,0 +1,13 @@
+//This is a file exercise under branch section1
+
+using namespace std;
+
+main{
+
+      string name;
+      name=Erisi;
+      cout << name;
+      
+
+      return 0;
+}
