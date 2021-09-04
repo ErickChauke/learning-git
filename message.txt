@@ -1,0 +1,16 @@
+Okay this file should be added to github
+and be committed.
+
+//code
+
+using namespace std;
+
+main{
+
+   string name;
+
+   cout << string;
+
+   return 0;
+
+}
